@@ -1,0 +1,22 @@
+1) Todos los componentes son funciones
+2) Todos los componentes arrancan en mayuscula (PascalCase)
+3) Tdodos los componentes tienen que tener un retorno
+
+function App () { return ?}
+
+const App = () => { return ?}
+const App = () => ?
+
+class App {
+    render({
+        return ?
+    })
+}
+
+
+
+
+
+
+
+JSX : JavaScript y XML
