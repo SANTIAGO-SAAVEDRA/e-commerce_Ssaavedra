@@ -20,3 +20,14 @@ class App {
 
 
 JSX : JavaScript y XML
+
+
+
+PROPS Son los parametros quie le llega a un componente. Pueden ser de cualquier tipo de dato. No hay limite de cantidad de props para pasar. Los props solo van de padre a hijo.
+
+
+// PASAJE DE PARAMETROS EN UNA FUNCION
+const App = (a) => { return a*2 }
+App(1)
+
+<App parametro="1"/>
